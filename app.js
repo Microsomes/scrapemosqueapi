@@ -18,5 +18,6 @@ app.get("/namaz",async (req,res)=>{
         times:await scrape("one")
     })
 });
-
-app.listen("99")
+const PORT = process.env.PORT || 3000;
+console.log(PORT);
+app.listen(PORT)
