@@ -1,5 +1,4 @@
 const puppeteer = require('puppeteer');
-
 var currentdate = new Date(); 
 var datetime = "" + currentdate.getDate() + "/"
                 + (currentdate.getMonth()+1)  + "/" 
@@ -7,11 +6,9 @@ var datetime = "" + currentdate.getDate() + "/"
                 + currentdate.getHours() + ":"  
                 + currentdate.getMinutes() + ":" 
                 + currentdate.getSeconds();
-
 async function scrapeNamaz(which){
     const browser = await puppeteer.launch({headless:true,args: ['--no-sandbox',
      '--disable-setuid-sandbox',
-
 ]
     });
     const page = await browser.newPage();
@@ -57,7 +54,6 @@ async function scrapeNamaz(which){
         prayers:allPrayers,
         dateScrapped:Date.now(),
         dateEnglish:datetime
-    
     };
 }
 module.exports= scrapeNamaz;

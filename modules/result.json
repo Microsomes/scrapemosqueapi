@@ -1,0 +1,827 @@
+[
+  {
+    "date": "",
+    "day": "",
+    "fajr": {
+      "begin": "",
+      "Iqamah": "",
+      "sunrise": ""
+    },
+    "zuhr": {
+      "begin": "",
+      "Iqamah": ""
+    },
+    "asr": {
+      "begin": "",
+      "Iqamah": ""
+    },
+    "magrib": {
+      "begin": "",
+      "Iqamah": ""
+    },
+    "isha": {
+      "begin": "",
+      "Iqamah": ""
+    }
+  },
+  {
+    "date": "",
+    "day": "",
+    "fajr": {
+      "begin": "",
+      "Iqamah": "",
+      "sunrise": ""
+    },
+    "zuhr": {
+      "begin": "",
+      "Iqamah": ""
+    },
+    "asr": {
+      "begin": "",
+      "Iqamah": ""
+    },
+    "magrib": {
+      "begin": "",
+      "Iqamah": ""
+    },
+    "isha": {
+      "begin": "",
+      "Iqamah": ""
+    }
+  },
+  {
+    "date": "Aug 01",
+    "day": "Sat",
+    "fajr": {
+      "begin": "3:27 am",
+      "Iqamah": "4:30 am",
+      "sunrise": "5:28 am"
+    },
+    "zuhr": {
+      "begin": "1:19 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:32 pm",
+      "Iqamah": "7:15 pm"
+    },
+    "magrib": {
+      "begin": "8:59 pm",
+      "Iqamah": "9:02 pm"
+    },
+    "isha": {
+      "begin": "9:59 pm",
+      "Iqamah": "10:30 pm"
+    }
+  },
+  {
+    "date": "Aug 02",
+    "day": "Sun",
+    "fajr": {
+      "begin": "3:30 am",
+      "Iqamah": "4:30 am",
+      "sunrise": "5:29 am"
+    },
+    "zuhr": {
+      "begin": "1:19 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:31 pm",
+      "Iqamah": "7:15 pm"
+    },
+    "magrib": {
+      "begin": "8:57 pm",
+      "Iqamah": "9:00 pm"
+    },
+    "isha": {
+      "begin": "9:57 pm",
+      "Iqamah": "10:30 pm"
+    }
+  },
+  {
+    "date": "Aug 03",
+    "day": "Mon",
+    "fajr": {
+      "begin": "3:33 am",
+      "Iqamah": "4:45 am",
+      "sunrise": "5:31 am"
+    },
+    "zuhr": {
+      "begin": "1:18 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:29 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:55 pm",
+      "Iqamah": "8:58 pm"
+    },
+    "isha": {
+      "begin": "9:55 pm",
+      "Iqamah": "10:15 pm"
+    }
+  },
+  {
+    "date": "Aug 04",
+    "day": "Tue",
+    "fajr": {
+      "begin": "3:35 am",
+      "Iqamah": "4:45 am",
+      "sunrise": "5:32 am"
+    },
+    "zuhr": {
+      "begin": "1:18 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:28 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:53 pm",
+      "Iqamah": "8:56 pm"
+    },
+    "isha": {
+      "begin": "9:53 pm",
+      "Iqamah": "10:15 pm"
+    }
+  },
+  {
+    "date": "Aug 05",
+    "day": "Wed",
+    "fajr": {
+      "begin": "3:37 am",
+      "Iqamah": "4:45 am",
+      "sunrise": "5:34 am"
+    },
+    "zuhr": {
+      "begin": "1:18 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:27 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:51 pm",
+      "Iqamah": "8:54 pm"
+    },
+    "isha": {
+      "begin": "9:51 pm",
+      "Iqamah": "10:15 pm"
+    }
+  },
+  {
+    "date": "Aug 06",
+    "day": "Thu",
+    "fajr": {
+      "begin": "3:40 am",
+      "Iqamah": "4:45 am",
+      "sunrise": "5:36 am"
+    },
+    "zuhr": {
+      "begin": "1:18 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:26 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:50 pm",
+      "Iqamah": "8:53 pm"
+    },
+    "isha": {
+      "begin": "9:50 pm",
+      "Iqamah": "10:15 pm"
+    }
+  },
+  {
+    "date": "Aug 07",
+    "day": "Fri",
+    "fajr": {
+      "begin": "3:42 am",
+      "Iqamah": "4:45 am",
+      "sunrise": "5:37 am"
+    },
+    "zuhr": {
+      "begin": "1:18 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:25 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:48 pm",
+      "Iqamah": "8:51 pm"
+    },
+    "isha": {
+      "begin": "9:48 pm",
+      "Iqamah": "10:15 pm"
+    }
+  },
+  {
+    "date": "Aug 08",
+    "day": "Sat",
+    "fajr": {
+      "begin": "3:44 am",
+      "Iqamah": "4:45 am",
+      "sunrise": "5:39 am"
+    },
+    "zuhr": {
+      "begin": "1:18 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:24 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:46 pm",
+      "Iqamah": "8:49 pm"
+    },
+    "isha": {
+      "begin": "9:46 pm",
+      "Iqamah": "10:15 pm"
+    }
+  },
+  {
+    "date": "Aug 09",
+    "day": "Sun",
+    "fajr": {
+      "begin": "3:47 am",
+      "Iqamah": "4:45 am",
+      "sunrise": "5:41 am"
+    },
+    "zuhr": {
+      "begin": "1:18 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:22 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:44 pm",
+      "Iqamah": "8:47 pm"
+    },
+    "isha": {
+      "begin": "9:45 pm",
+      "Iqamah": "10:15 pm"
+    }
+  },
+  {
+    "date": "Aug 10",
+    "day": "Mon",
+    "fajr": {
+      "begin": "3:49 am",
+      "Iqamah": "5:00 am",
+      "sunrise": "5:42 am"
+    },
+    "zuhr": {
+      "begin": "1:18 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:21 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:42 pm",
+      "Iqamah": "8:45 pm"
+    },
+    "isha": {
+      "begin": "9:44 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 11",
+    "day": "Tue",
+    "fajr": {
+      "begin": "3:51 am",
+      "Iqamah": "5:00 am",
+      "sunrise": "5:44 am"
+    },
+    "zuhr": {
+      "begin": "1:17 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:20 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:40 pm",
+      "Iqamah": "8:43 pm"
+    },
+    "isha": {
+      "begin": "9:43 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 12",
+    "day": "Wed",
+    "fajr": {
+      "begin": "3:54 am",
+      "Iqamah": "5:00 am",
+      "sunrise": "5:46 am"
+    },
+    "zuhr": {
+      "begin": "1:17 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:18 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:38 pm",
+      "Iqamah": "8:41 pm"
+    },
+    "isha": {
+      "begin": "9:42 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 13",
+    "day": "Thu",
+    "fajr": {
+      "begin": "3:56 am",
+      "Iqamah": "5:00 am",
+      "sunrise": "5:47 am"
+    },
+    "zuhr": {
+      "begin": "1:17 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:17 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:36 pm",
+      "Iqamah": "8:39 pm"
+    },
+    "isha": {
+      "begin": "9:41 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 14",
+    "day": "Fri",
+    "fajr": {
+      "begin": "3:59 am",
+      "Iqamah": "5:00 am",
+      "sunrise": "5:49 am"
+    },
+    "zuhr": {
+      "begin": "1:17 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:15 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:34 pm",
+      "Iqamah": "8:37 pm"
+    },
+    "isha": {
+      "begin": "9:40 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 15",
+    "day": "Sat",
+    "fajr": {
+      "begin": "4:01 am",
+      "Iqamah": "5:00 am",
+      "sunrise": "5:50 am"
+    },
+    "zuhr": {
+      "begin": "1:17 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:14 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:32 pm",
+      "Iqamah": "8:35 pm"
+    },
+    "isha": {
+      "begin": "9:39 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 16",
+    "day": "Sun",
+    "fajr": {
+      "begin": "4:03 am",
+      "Iqamah": "5:00 am",
+      "sunrise": "5:52 am"
+    },
+    "zuhr": {
+      "begin": "1:16 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:13 pm",
+      "Iqamah": "7:00 pm"
+    },
+    "magrib": {
+      "begin": "8:30 pm",
+      "Iqamah": "8:33 pm"
+    },
+    "isha": {
+      "begin": "9:40 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 17",
+    "day": "Mon",
+    "fajr": {
+      "begin": "4:06 am",
+      "Iqamah": "5:15 am",
+      "sunrise": "5:54 am"
+    },
+    "zuhr": {
+      "begin": "1:16 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:11 pm",
+      "Iqamah": "6:45 pm"
+    },
+    "magrib": {
+      "begin": "8:28 pm",
+      "Iqamah": "8:31 pm"
+    },
+    "isha": {
+      "begin": "9:38 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 18",
+    "day": "Tue",
+    "fajr": {
+      "begin": "4:08 am",
+      "Iqamah": "5:15 am",
+      "sunrise": "5:55 am"
+    },
+    "zuhr": {
+      "begin": "1:16 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:10 pm",
+      "Iqamah": "6:45 pm"
+    },
+    "magrib": {
+      "begin": "8:25 pm",
+      "Iqamah": "8:28 pm"
+    },
+    "isha": {
+      "begin": "9:35 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 19",
+    "day": "Wed",
+    "fajr": {
+      "begin": "4:10 am",
+      "Iqamah": "5:15 am",
+      "sunrise": "5:57 am"
+    },
+    "zuhr": {
+      "begin": "1:16 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:08 pm",
+      "Iqamah": "6:45 pm"
+    },
+    "magrib": {
+      "begin": "8:23 pm",
+      "Iqamah": "8:26 pm"
+    },
+    "isha": {
+      "begin": "9:33 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 20",
+    "day": "Thu",
+    "fajr": {
+      "begin": "4:13 am",
+      "Iqamah": "5:15 am",
+      "sunrise": "5:59 am"
+    },
+    "zuhr": {
+      "begin": "1:16 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:07 pm",
+      "Iqamah": "6:45 pm"
+    },
+    "magrib": {
+      "begin": "8:21 pm",
+      "Iqamah": "8:24 pm"
+    },
+    "isha": {
+      "begin": "9:31 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 21",
+    "day": "Fri",
+    "fajr": {
+      "begin": "4:15 am",
+      "Iqamah": "5:15 am",
+      "sunrise": "6:00 am"
+    },
+    "zuhr": {
+      "begin": "1:15 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:05 pm",
+      "Iqamah": "6:45 pm"
+    },
+    "magrib": {
+      "begin": "8:19 pm",
+      "Iqamah": "8:22 pm"
+    },
+    "isha": {
+      "begin": "9:30 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 22",
+    "day": "Sat",
+    "fajr": {
+      "begin": "4:18 am",
+      "Iqamah": "5:15 am",
+      "sunrise": "6:02 am"
+    },
+    "zuhr": {
+      "begin": "1:15 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:03 pm",
+      "Iqamah": "6:45 pm"
+    },
+    "magrib": {
+      "begin": "8:17 pm",
+      "Iqamah": "8:20 pm"
+    },
+    "isha": {
+      "begin": "9:28 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 23",
+    "day": "Sun",
+    "fajr": {
+      "begin": "4:20 am",
+      "Iqamah": "5:15 am",
+      "sunrise": "6:04 am"
+    },
+    "zuhr": {
+      "begin": "1:15 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:02 pm",
+      "Iqamah": "6:45 pm"
+    },
+    "magrib": {
+      "begin": "8:15 pm",
+      "Iqamah": "8:18 pm"
+    },
+    "isha": {
+      "begin": "9:26 pm",
+      "Iqamah": "10:00 pm"
+    }
+  },
+  {
+    "date": "Aug 24",
+    "day": "Mon",
+    "fajr": {
+      "begin": "4:22 am",
+      "Iqamah": "5:30 am",
+      "sunrise": "6:05 am"
+    },
+    "zuhr": {
+      "begin": "1:15 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "6:00 pm",
+      "Iqamah": "6:30 pm"
+    },
+    "magrib": {
+      "begin": "8:12 pm",
+      "Iqamah": "8:15 pm"
+    },
+    "isha": {
+      "begin": "9:23 pm",
+      "Iqamah": "9:45 pm"
+    }
+  },
+  {
+    "date": "Aug 25",
+    "day": "Tue",
+    "fajr": {
+      "begin": "4:25 am",
+      "Iqamah": "5:30 am",
+      "sunrise": "6:07 am"
+    },
+    "zuhr": {
+      "begin": "1:14 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "5:59 pm",
+      "Iqamah": "6:30 pm"
+    },
+    "magrib": {
+      "begin": "8:10 pm",
+      "Iqamah": "8:13 pm"
+    },
+    "isha": {
+      "begin": "9:22 pm",
+      "Iqamah": "9:45 pm"
+    }
+  },
+  {
+    "date": "Aug 26",
+    "day": "Wed",
+    "fajr": {
+      "begin": "4:27 am",
+      "Iqamah": "5:30 am",
+      "sunrise": "6:09 am"
+    },
+    "zuhr": {
+      "begin": "1:14 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "5:57 pm",
+      "Iqamah": "6:30 pm"
+    },
+    "magrib": {
+      "begin": "8:08 pm",
+      "Iqamah": "8:11 pm"
+    },
+    "isha": {
+      "begin": "9:20 pm",
+      "Iqamah": "9:45 pm"
+    }
+  },
+  {
+    "date": "Aug 27",
+    "day": "Thu",
+    "fajr": {
+      "begin": "4:30 am",
+      "Iqamah": "5:30 am",
+      "sunrise": "6:10 am"
+    },
+    "zuhr": {
+      "begin": "1:14 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "5:55 pm",
+      "Iqamah": "6:30 pm"
+    },
+    "magrib": {
+      "begin": "8:06 pm",
+      "Iqamah": "8:09 pm"
+    },
+    "isha": {
+      "begin": "9:18 pm",
+      "Iqamah": "9:45 pm"
+    }
+  },
+  {
+    "date": "Aug 28",
+    "day": "Fri",
+    "fajr": {
+      "begin": "4:32 am",
+      "Iqamah": "5:30 am",
+      "sunrise": "6:12 am"
+    },
+    "zuhr": {
+      "begin": "1:13 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "5:54 pm",
+      "Iqamah": "6:30 pm"
+    },
+    "magrib": {
+      "begin": "8:04 pm",
+      "Iqamah": "8:07 pm"
+    },
+    "isha": {
+      "begin": "9:16 pm",
+      "Iqamah": "9:45 pm"
+    }
+  },
+  {
+    "date": "Aug 29",
+    "day": "Sat",
+    "fajr": {
+      "begin": "4:34 am",
+      "Iqamah": "5:30 am",
+      "sunrise": "6:14 am"
+    },
+    "zuhr": {
+      "begin": "1:13 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "5:52 pm",
+      "Iqamah": "6:30 pm"
+    },
+    "magrib": {
+      "begin": "8:01 pm",
+      "Iqamah": "8:04 pm"
+    },
+    "isha": {
+      "begin": "9:14 pm",
+      "Iqamah": "9:45 pm"
+    }
+  },
+  {
+    "date": "Aug 30",
+    "day": "Sun",
+    "fajr": {
+      "begin": "4:36 am",
+      "Iqamah": "5:30 am",
+      "sunrise": "6:15 am"
+    },
+    "zuhr": {
+      "begin": "1:13 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "5:50 pm",
+      "Iqamah": "6:30 pm"
+    },
+    "magrib": {
+      "begin": "7:59 pm",
+      "Iqamah": "8:02 pm"
+    },
+    "isha": {
+      "begin": "9:12 pm",
+      "Iqamah": "9:45 pm"
+    }
+  },
+  {
+    "date": "Aug 31",
+    "day": "Mon",
+    "fajr": {
+      "begin": "4:38 am",
+      "Iqamah": "5:30 am",
+      "sunrise": "6:17 am"
+    },
+    "zuhr": {
+      "begin": "1:12 pm",
+      "Iqamah": "1:45 pm"
+    },
+    "asr": {
+      "begin": "5:48 pm",
+      "Iqamah": "6:15 pm"
+    },
+    "magrib": {
+      "begin": "7:57 pm",
+      "Iqamah": "8:00 pm"
+    },
+    "isha": {
+      "begin": "9:10 pm",
+      "Iqamah": "9:30 pm"
+    }
+  }
+]
