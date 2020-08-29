@@ -2,6 +2,7 @@ const puppeteer = require('puppeteer');
 const fs= require("fs");
 async function getCalendar(){
     return new Promise(async (resolve,reject)=>{
+        try{
         const browser = await puppeteer.launch({headless:true,args: ['--no-sandbox',
         '--disable-setuid-sandbox',
    ]
@@ -12,7 +13,8 @@ async function getCalendar(){
    await page.waitFor(2000);
    var cale=await page.evaluate(()=>{
        var toReturn=[]
-         document.querySelectorAll("tr").forEach(derom=>{
+          document.querySelectorAll("tr").forEach(derom=>{
+              
             var count=0;
             var jsonTemp={
                 date:"",
@@ -74,6 +76,9 @@ async function getCalendar(){
          return toReturn;
    })
    resolve(cale);
+}catch(e){
+    reject(e);
+}
 });
 }
 module.exports=getCalendar
