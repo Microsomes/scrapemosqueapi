@@ -75,6 +75,7 @@ async function getCalendar(){
          })
          return toReturn;
    })
+   browser.close();
    resolve(cale);
 }catch(e){
     reject(e);

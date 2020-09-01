@@ -8,10 +8,9 @@ var datetime = "" + currentdate.getDate() + "/"
                 + currentdate.getSeconds();
 async function scrapeNamaz(which){
     const browser = await puppeteer.launch({headless:true,args: ['--no-sandbox',
-     '--disable-setuid-sandbox',
+    '--disable-setuid-sandbox',
 ]
-    });
-    const page = await browser.newPage();
+   });    const page = await browser.newPage();
     await page.goto('https://centralmosque.org.uk/mobile-timetable/');
     await page.waitFor(2000);
     //begin scrapping
@@ -50,6 +49,7 @@ async function scrapeNamaz(which){
         })
         return toReturn;
     })
+    browser.close();
     return {
         prayers:allPrayers,
         dateScrapped:Date.now(),
