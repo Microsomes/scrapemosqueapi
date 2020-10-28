@@ -13,6 +13,12 @@ const getCalendar = require("./modules/scrapeFullCalendar");
 const app= express();
 cacheMiddleware.attach(app)
 app.use(cors());
+
+const newsapi= require("./routes/newsapi")
+
+app.use("/news",newsapi);
+
+
 app.get("/namaz",async (req,res)=>{
     try{
     res.status(200).json({
@@ -291,6 +297,10 @@ app.get("/",(req,res)=>{
             "/opening":{
                 "args":[],
                 desc:"Opening times for the mosque"
+            },
+            "/news":{
+                "args":[],
+                desc:"The news api"
             }
         }
     })
